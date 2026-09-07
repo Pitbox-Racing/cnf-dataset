@@ -1,9 +1,9 @@
 {
-  "datasetVersion": "40e691dfe16b5c1a",
+  "datasetVersion": "653c5a30d64da610",
   "formatVersion": 1,
-  "generatedAt": "2026-08-31T10:37:16Z",
-  "muxCount": 31515,
-  "sha256": "40e691dfe16b5c1a8abd36a31e9aa79cb219d2a1a44342d1b060d580bc6be198",
-  "siteCount": 8332,
+  "generatedAt": "2026-09-07T08:59:43Z",
+  "muxCount": 31517,
+  "sha256": "653c5a30d64da610f2b3c380e0666000e0381cb64e8ffd15bb6e7eb967c8fbd6",
+  "siteCount": 8334,
   "url": "https://raw.githubusercontent.com/Pitbox-Racing/cnf-dataset/main/transmitters.json"
 }
